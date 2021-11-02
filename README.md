@@ -1,11 +1,8 @@
-## Hi, I'm Jose Alberto Zurera 
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Jose Alberto Zurera</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Jose Alberto Zurera</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josealbertozurera&label=Profile%20views&color=0e75b6&style=flat" alt="josealbertozurera" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josealbertozurera" alt="josealbertozurera" /></a> </p>
 
 - 🔭 I’m currently working on **something cool**
 
@@ -32,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josealbertozurera&show_icons=true&locale=en" alt="josealbertozurera" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josealbertozurera&" alt="josealbertozurera" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josealbertozurera&" alt="JoseAlbertoZurera" /></p>
